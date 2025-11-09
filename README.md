@@ -39,6 +39,8 @@ With a rapidly growing content library, Netflix needs to understand:
 
 #📊 Data Source
 
+https://github.com/sonali132005/netflix-eda/blob/main/.~mymoviedb.csv
+
 
 
 🚀 EDA Features / Highlights
@@ -76,6 +78,9 @@ With a rapidly growing content library, Netflix needs to understand:
 *These insights help Netflix focus on user-demanded genres, optimize content curation, and plan future productions effectively.Ex
 
 #Exploratory data analysis project:
+
+https://github.com/sonali132005/netflix-eda/blob/main/movie%20data%20analysis%20netflix.ipynb
+
 
 
 
